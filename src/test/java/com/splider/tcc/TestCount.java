@@ -14,7 +14,7 @@ public class TestCount {
     private final CountTCCPt_Pow countPt1 = new CountTCCPt_Pow();
     private final CountTCCPt_Exp countPt2 = new CountTCCPt_Exp();
     private final CountTCCPt_PowLn countPt3 = new CountTCCPt_PowLn();
-    private final CountTCCPt_PowNewton countPt4 = new CountTCCPt_PowNewton();
+    private final CountTCCPt_PowNewton countPt4 = new CountTCCPt_PowNewton();  //牛顿插值法求参数，比较稳定，请使用该类封装的方法
     private final CountTCCPt_PowNewton_Pingfang countPt5 = new CountTCCPt_PowNewton_Pingfang();
 
     @Test

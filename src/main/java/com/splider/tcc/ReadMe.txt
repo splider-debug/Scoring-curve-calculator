@@ -1,1 +1,2 @@
 所有功能已经封装好，请在TestCount中查看使用示例。
+CountTCCPt_PowNewton封装了牛顿插值法求参数的相关api，比较稳定，请使用该类封装的方法
